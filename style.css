@@ -111,10 +111,13 @@ section {
 }
 
 @media (max-width: 740px) {
+  .image-cover h1 {
+    letter-spacing: 0;
+  }
+
   .album-one {
     padding-bottom: 5rem;
   }
-
   .album-two {
     padding-bottom: 5rem;
   }
